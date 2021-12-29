@@ -1,10 +1,11 @@
 import React from "react"
 import "./styles/homepage.css"
 import red from "./images/red background.jpg"
-import profile from "./images/portfolio_img.jpg"
+import profile_2 from "./images/profile_2.jpg"
 import Boxes from "./Boxes"
 import { FaGithub,FaInstagram,FaLinkedinIn} from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
+import About from "./About"
 
 const Homepage=()=>{
     return(
@@ -12,7 +13,7 @@ const Homepage=()=>{
         <div className="upeer_part">
             <div className="photos">
             <img  className="red_card" src={red} alt="/"></img>
-        <img className="profile_img" src={profile} alt="/"></img>
+        <img className="profile_img" src={profile_2} alt="/"></img>
             </div>
   
     <div className="intro">
@@ -53,7 +54,9 @@ const Homepage=()=>{
             </div>
             
     </div>
-    
+
+
+    <About/>
     
     
   </div>
