@@ -3,6 +3,7 @@ import {  Route,  ReactLocation } from "react-location";
 import Homepage from "./Homepage";
 import Boxes from "./Boxes";
 import About from "./About"
+import Education from "./Education";
 
 export const routes: Route[] = [
     
@@ -17,6 +18,10 @@ export const routes: Route[] = [
 {
     path:"/about",
     element:<About/>
+},
+{
+    path:"/edu",
+    element:<Education/>
 }
 
 ];

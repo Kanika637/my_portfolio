@@ -13,7 +13,8 @@ const Homepage=()=>{
         <div className="upeer_part">
             <div className="photos">
             <img  className="red_card" src={red} alt="/"></img>
-        <img className="profile_img" src={profile_2} alt="/"></img>
+        <img className="profile_img" src={profile_2}
+         alt="/"></img>
             </div>
   
     <div className="intro">
