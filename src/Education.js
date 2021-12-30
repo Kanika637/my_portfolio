@@ -3,6 +3,7 @@ import "./styles/education.css"
 
 const Education=()=>{
     return(
+        <div className="note">
         <div className="education">
             <div className="partition">
                 <div className="schooling">
@@ -30,6 +31,7 @@ const Education=()=>{
 
                 </div>
             </div>
+        </div>
         </div>
 
     )
