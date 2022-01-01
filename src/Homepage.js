@@ -6,6 +6,7 @@ import Boxes from "./Boxes"
 import { FaGithub,FaInstagram,FaLinkedinIn} from "react-icons/fa";
 import { FaTwitter } from "react-icons/fa";
 import About from "./About"
+import Education_Second from "./Education_Second"
 
 const Homepage=()=>{
     return(
@@ -58,6 +59,7 @@ const Homepage=()=>{
 
 
     <About/>
+    <Education_Second/>
     
     
   </div>

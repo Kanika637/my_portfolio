@@ -52,7 +52,7 @@
     text-transform: uppercase;
     overflow: hidden;
     transition: 1s all ease;
-    
+        
   }
   .btn::before{
     background: #ff7675;

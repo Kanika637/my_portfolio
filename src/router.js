@@ -3,7 +3,8 @@ import {  Route,  ReactLocation } from "react-location";
 import Homepage from "./Homepage";
 import Boxes from "./Boxes";
 import About from "./About"
-import Education from "./Education";
+import Education_Second from "./Education_Second"
+import Skills from "./Skills";
 
 export const routes: Route[] = [
     
@@ -19,10 +20,17 @@ export const routes: Route[] = [
     path:"/about",
     element:<About/>
 },
+
 {
-    path:"/edu",
-    element:<Education/>
+    path:"/edus",
+    element:<Education_Second/>
+},
+{
+    path:"/skill",
+    element:<Skills/>
 }
+
+
 
 ];
 
