@@ -5,6 +5,7 @@ import Boxes from "./Boxes";
 import About from "./About"
 import Education_Second from "./Education_Second"
 import Skills from "./Skills";
+import Project from "./Project";
 
 export const routes: Route[] = [
     
@@ -28,6 +29,10 @@ export const routes: Route[] = [
 {
     path:"/skill",
     element:<Skills/>
+},
+{
+    path:"/pro",
+    element:<Project/>
 }
 
 

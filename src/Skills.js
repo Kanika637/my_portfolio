@@ -1,11 +1,11 @@
 import React,{useEffect} from "react";
 import "./styles/skills.css"
 import html from "./images/html.png"
-import css from "./images/css.png"
+import css from "./images/css_black.jpg"
 import js from "./images/js.png"
-import react from "./images/react.png"
-import node from "./images/node.png"
-import python from "./images/python.jpg"
+import react from "./images/react_black.png"
+import node from "./images/node_black.png"
+import python from "./images/p_blackkfjnh.jpg"
 import Aos from "aos";
 import 'aos/dist/aos.css';
 import { functionalUpdate } from "react-location";
@@ -78,14 +78,13 @@ const Skills=()=>{
 
     return(
 		<div className="skill">
+			<div className="sjbf">
 			<div  data-aos="fade-right" className="list">
+				<div className="first_half">
 				<div className="html">
-					<div id="container_s">
-						<div id="inner"><img className="img_html" src={html} alt="/"></img>
-						</div>
-						</div>
 					
-					<span className="measure_html">
+						<img className="img_html" src={html} alt="/"></img>
+						<span className="measure_html">
 					<span  className="per_html"></span>
 					</span>
 					
@@ -105,7 +104,10 @@ const Skills=()=>{
 					<span className="per_js"></span>
 					</span>
 					
+				
 				</div>
+				</div>
+				
 
 				<div className="react">
 					<img className="img_react" src={react}></img>
@@ -128,6 +130,11 @@ const Skills=()=>{
 					</span>
 					
 				</div>
+				
+				
+			</div>
+			
+			
 			</div>
 
 
