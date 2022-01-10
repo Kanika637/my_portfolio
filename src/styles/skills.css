@@ -1,92 +1,222 @@
-.grid {
-	padding: 20px 20px 100px 20px;
-	max-width: 1300px;
-	margin: 0 auto;
-	list-style: none;
-	text-align: center;
+.list{
+	display: flex;
+	flex-direction: column;
+	float: left;
+	margin-left: -20%;
+	margin-top: 1%;
 }
-
-.grid li {
-	display: inline-block;
-	width: 440px;
-	margin: 0;
-	padding: 20px;
-	text-align: left;
-	position: relative;
+/* #inner{
+	transition: transform 0.5s;
+} */
+.img_html{
+	width: 16%;
+    
+	margin-bottom: 10%;
 }
-.grid figure {
-	margin: 0;
-	position: relative;
+.img_css{
+	width: 12%;
+	margin-bottom: 10%;
 }
-.grid figure img {
-	max-width: 100%;
+.img_js{
+	width: 13%;
+	margin-bottom: 10%;
+}
+.img_node{
+	width: 13%;
+	margin-bottom: 10%;
+}
+.img_react{
+	width: 17%;
+	margin-bottom: 10%;
+}
+.img_python{
+	width: 12%;
+}
+.measure_html{
 	display: block;
-	position: relative;
-}
-.grid figcaption {
-	position: absolute;
-	top: 0;
-	left: 0;
-	padding: 20px;
-	background: #2c3f52;
-	color: #ed4e6e;
-}
-.grid figcaption h3 {
-	margin: 0;
-	padding: 0;
-	color: #fff;
-}
-
-.grid figcaption span:before {
-	content: 'by ';
-}
-
-.grid figcaption a {
-	text-align: center;
-	padding: 5px 10px;
-	border-radius: 2px;
-	display: inline-block;
-	background: #ed4e6e;
-	color: #fff;
-}
-@media screen and (max-width: 31.5em) {
-	.grid {
-		padding: 10px 10px 100px 10px;
-	}
-	.grid li {
-		width: 100%;
-		min-width: 300px;
-	}
-}
-.cs-style-3 figure {
+	height: 10px;
+	border: 2px solid rgba(0,0,0,0.3);
+	border-radius: 3px;
 	overflow: hidden;
-}
-.cs-style-3 figure img {
-	transition: transform 0.4s;
+	box-shadow: 0 0 10px #2187e7b3;
+	margin-left: 110%;
+	width: 60%;
+	margin-top: 7%;
+
 }
 
-.no-touch .cs-style-3 figure:hover img,
-.cs-style-3 figure.cs-hover img {
-	transform: translateY(-50px);
+.measure_html span{
+	height: 10px;
+	background-color: #2187e7;
+	float: left;
+
 }
-.cs-style-3 figcaption {
-	height: 100px;
-	width: 100%;
-	top: auto;
-	bottom: 0;
-	opacity: 0;
-	transform: translateY(100%);
-	transition: transform 0.4s, opacity 0.1s 0.3s;
+.per_html{
+	width: 95%;
+	animation: html 2s;
 }
-.no-touch .cs-style-3 figure:hover figcaption,
-.cs-style-3 figure.cs-hover figcaption {
-	opacity: 1;
-	transform: translateY(0px);
-	transition: transform 0.4s, opacity 0.1s;
+.measure_css span{
+	height: 9px;
+	background-color: #2187e7;
+	float: left;
+
 }
-.cs-style-3 figcaption a {
-	position: absolute;
-	bottom: 20px;
-	right: 20px;
+.per_css{
+	width: 75%;
+	animation: css 2s;
+}
+.measure_js span{
+	height: 9px;
+	background-color: #2187e7;
+	float: left;
+
+}
+.per_js{
+	width: 65%;
+	animation: js 2s;
+}
+.measure_react span{
+	height: 9px;
+	background-color: #2187e7;
+	float: left;
+
+}
+.per_react{
+	width: 75%;
+	animation: react 2s;
+}
+.measure_node span{
+	height: 9px;
+	background-color: #2187e7;
+	float: left;
+
+}
+.per_node{
+	width: 50%;
+	animation: node 2s;
+}
+.measure_python span{
+	height: 9px;
+	background-color: #2187e7;
+	float: left;
+
+}
+.per_python{
+	width: 40%;
+	animation: python 2s;
 }
 
+@keyframes html {
+	0%{
+		width: 0%;
+	}
+	100%{
+		width: 95%;
+	}
+}
+@keyframes css {
+	0%{
+		width: 0%;
+	}
+	100%{
+		width: 75%;
+	}
+}
+@keyframes js {
+	0%{
+		width: 0%;
+	}
+	100%{
+		width: 65%;
+	}
+}
+@keyframes node {
+	0%{
+		width: 0%;
+	}
+	100%{
+		width: 40%;
+	}
+}
+@keyframes python {
+	0%{
+		width: 0%;
+	}
+	100%{
+		width: 40%;
+	}
+}
+@keyframes react {
+	0%{
+		width: 0%;
+	}
+	100%{
+		width: 75%;
+	}
+}
+.measure_css{
+	display: block;
+	height: 10px;
+	border: 2px solid rgba(0,0,0,0.3);
+	border-radius: 3px;
+	overflow: hidden;
+	box-shadow: 0 0 10px #2187e7b3;
+	margin-left: 110%;
+	width: 60%;
+	margin-top: 8%;
+
+
+}
+
+.measure_js{
+	display: block;
+	height: 10px;
+	border: 2px solid rgba(0,0,0,0.3);
+	border-radius: 3px;
+	overflow: hidden;
+	box-shadow: 0 0 10px #2187e7b3;
+	margin-left: 110%;
+	width: 60%;
+	margin-top: 6%;
+	
+
+}
+.measure_react{
+	display: block;
+	height: 10px;
+	border: 2px solid rgba(0,0,0,0.3);
+	border-radius: 3px;
+	overflow: hidden;
+	box-shadow: 0 0 10px #2187e7b3;
+	margin-left: 110%;
+	width: 60%;
+	margin-top: 4%;
+
+
+}
+.measure_node{
+	display: block;
+	height: 10px;
+	border: 2px solid rgba(0,0,0,0.3);
+	border-radius: 3px;
+	overflow: hidden;
+	box-shadow: 0 0 10px #2187e7b3;
+	margin-left: 110%;
+	width: 60%;
+	margin-top: 4%;
+
+
+}
+.measure_python{
+	display: block;
+	height: 10px;
+	border: 2px solid rgba(0,0,0,0.3);
+	border-radius: 3px;
+	overflow: hidden;
+	box-shadow: 0 0 10px #2187e7b3;
+	margin-left: 110%;
+	width: 60%;
+	margin-top: 5%;
+	
+
+}
