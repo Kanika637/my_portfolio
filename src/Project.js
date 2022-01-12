@@ -10,7 +10,7 @@ import  code_logo from "./images/code_logo.png"
 
 const Project=()=>{
     return(
-        <div className="project">
+        <div  id="project" className="project">
             <div className="background"></div>
             <div className="first_row">
             <div className="outer-div">

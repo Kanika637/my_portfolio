@@ -3,7 +3,7 @@ import "./styles/education_Second.css"
 
 const Education_Second=()=>{
     return(
-        <div className="edu_second">
+        <div  id="education" className="edu_second">
         <div className="row1-container">
     <div className="box box-down cyan">
       <h2>Course</h2>

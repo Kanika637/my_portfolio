@@ -3,7 +3,7 @@ import "./styles/about.css"
 import about from "./images/about.jpg"
 const About=()=>{
     return(
-        <div className="about">
+        <div  id="about" className="about">
             
             <div className="about_content">
                

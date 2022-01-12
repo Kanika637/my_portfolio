@@ -1,4 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@600&family=Fuzzy+Bubbles&family=Poppins:wght@200&family=Varela+Round&display=swap');
+
+body{
+    background-color: black;
+}
 .intro{
     margin-top:2.5%;
     margin-left: -98%;

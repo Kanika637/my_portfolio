@@ -4,7 +4,10 @@ import { DiReact} from "react-icons/di";
 import { FaSchool } from "react-icons/fa";
 import { VscCode } from "react-icons/vsc";
 import { FaSeedling } from "react-icons/fa";
-
+import Skills from "./Skills";
+import Education_Second from "./Education_Second";
+import Project from "./Project";
+import About from "./About";
 const Boxes=()=>{
     return(
         <div className="boxes">
@@ -17,6 +20,7 @@ const Boxes=()=>{
                 <div className="box1_heading">
                     SKILLS
                     </div>
+                  
             </div>
             <div className="box2">
                 <div className="box2_icon">
@@ -50,6 +54,7 @@ const Boxes=()=>{
             </div>
             </div>
             </div>
+           
         </div>
 
     )
