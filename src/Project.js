@@ -106,7 +106,7 @@ const Project=()=>{
                     <div className="back-4">
                         <div className="wrapper-4">
                         <div className="link-4">
-                            <a target="blank" href="https://en.wikipedia.org/wiki/Taj_Mahal" className="linker-4"> Project Link</a>
+                            <a target="blank" href="https://github.com/Kanika637/my_portfolio" className="linker-4"> Project Link</a>
                             </div>
                         </div>
                     </div>

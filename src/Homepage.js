@@ -8,6 +8,7 @@ import { FaTwitter } from "react-icons/fa";
 import About from "./About"
 import Education_Second from "./Education_Second"
 import Skills from "./Skills"
+import Project from "./Project"
 
 const Homepage=()=>{
     return(
@@ -62,6 +63,7 @@ const Homepage=()=>{
     <About/>
     <Education_Second/>
     <Skills/>
+    <Project/>
     
     
   </div>
