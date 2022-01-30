@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@600&family=Fuzzy+Bubbles&family=Poppins:wght@200&family=Varela+Round&display=swap');
 
+
 body{
     background-color: black;
 }
@@ -75,21 +76,25 @@ body{
 .insta{
     height: 30%;
     width: 55%;
+    color: white;
     padding-top: 5%;
     margin-bottom: 35%;
 }
 .github{
     height: 30%;
     margin-bottom: 35%;
+    color: white;
     width: 55%;
 }
 .linked{
     height: 30%;
+    color: white;
     width: 55%;
     margin-bottom: 35%;
 }
 .twitter{
     height: 30%;
+    color: white;
     width: 55%;
 }
 

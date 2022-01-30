@@ -47,14 +47,16 @@ const Homepage=()=>{
 
         </div>
         <div className="github">
-            <FaGithub className="github"></FaGithub>
+            
+        <a target="blank" href="https://github.com/Kanika637"><FaGithub  className="github"/> </a>
             
             </div>
             <div className="linked">
-            <FaLinkedinIn className="linked"></FaLinkedinIn>
+
+            <a  target="blank" href="https://www.linkedin.com/in/kanika-gola-999968204/"><FaLinkedinIn className="linked"/></a>
             </div>
             <div className="twitter">
-            <FaTwitter className="twitter"></FaTwitter>
+            <a href="https://twitter.com/gola_kanika"><FaTwitter className="twitter"/></a>
             </div>
             
     </div>

@@ -6,6 +6,7 @@ import About from "./About"
 import Education_Second from "./Education_Second"
 import Skills from "./Skills";
 import Project from "./Project";
+import Footer from "./Footer";
 
 export const routes: Route[] = [
     
@@ -33,6 +34,10 @@ export const routes: Route[] = [
 {
     path:"/pro",
     element:<Project/>
+},
+{
+    path:"/foot",
+    element:<Footer/>
 }
 
 

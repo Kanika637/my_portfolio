@@ -16,7 +16,7 @@ const About=()=>{
                 </div>
 
                 <div class="middle">
-      <a href="" class="btn btn1">Download Resume</a>
+      <a href="file:///C:/Users/hp/Downloads/Engineer%20Resume%20(2).pdf" target="blank" className="btn btn1">Resume</a>
       
     </div>
    

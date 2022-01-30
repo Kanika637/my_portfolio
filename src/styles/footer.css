@@ -1,0 +1,10 @@
+.footer_img{
+    width:37%;
+    margin-right: 5%;
+    margin-top: 10%;
+    height: 100%;
+}
+.footer_content{
+    display: flex;
+    flex-direction: row;
+}
