@@ -8,6 +8,7 @@ import Skills from "./Skills";
 import Project from "./Project";
 import Footer from "./Footer";
 import  Carousel  from './Carousel';
+import Scroll from "./Scroll";
 
 export const routes: Route[] = [
     
@@ -22,6 +23,10 @@ export const routes: Route[] = [
 {
     path:"/about",
     element:<About/>
+},
+{
+    path:"/scroll",
+    element:<Scroll/>
 },
 
 {

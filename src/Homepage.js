@@ -9,6 +9,7 @@ import About from "./About"
 import Education_Second from "./Education_Second"
 import Skills from "./Skills"
 import Project from "./Project"
+import Scroll from "./Scroll"
 
 const Homepage=()=>{
     return(
@@ -61,7 +62,7 @@ const Homepage=()=>{
             
     </div>
 
-
+<Scroll/>
     <About/>
     <Education_Second/>
     <Skills/>

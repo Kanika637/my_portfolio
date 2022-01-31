@@ -81,7 +81,7 @@
 
 }
 .per_js{
-	width: 65%;
+	width: 75%;
 	animation: js 2s;
 }
 .measure_react span{
@@ -91,7 +91,7 @@
 
 }
 .per_react{
-	width: 75%;
+	width: 80%;
 	animation: react 2s;
 }
 .measure_node span{
@@ -101,7 +101,7 @@
 
 }
 .per_node{
-	width: 50%;
+	width: 65%;
 	animation: node 2s;
 }
 .measure_python span{
@@ -136,7 +136,7 @@
 		width: 0%;
 	}
 	100%{
-		width: 65%;
+		width: 75%;
 	}
 }
 @keyframes node {
@@ -144,7 +144,7 @@
 		width: 0%;
 	}
 	100%{
-		width: 40%;
+		width: 65%;
 	}
 }
 @keyframes python {
@@ -160,7 +160,7 @@
 		width: 0%;
 	}
 	100%{
-		width: 75%;
+		width: 80%;
 	}
 }
 .measure_css{

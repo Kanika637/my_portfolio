@@ -104,7 +104,7 @@
   margin-left: 13%;
 }
 .front_text-header{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight:bold;
 
   color: white;
@@ -219,7 +219,7 @@
 .ama_img-2{
   margin-right: -0.1%;
   width: 100%;
-  height: 55%;
+  height: 54%;
 
 /* correct this */
   margin-top: -89%;
@@ -228,7 +228,7 @@
   margin-left: 35%;
 }
 .front_text-header-2{
-  font-size: 1.9rem;
+  font-size: 1.5rem;
   font-weight:bold;
   color: white;
   
@@ -365,7 +365,7 @@
   margin-left: 57%;
 }
 .front_text-header-3{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight:bold;
   color: white;
   
@@ -499,7 +499,7 @@ margin-top: -2%;
   margin-left: 47%;
 }
 .front_text-header-4{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight:bold;
   color: white;
   
@@ -539,8 +539,10 @@ margin-top: -2%;
 }
 
 .second-row{
-  margin-right: -21.3%;
+  margin-right: -21.5%;
   margin-top: -11.5%;
+
+ 
 }
 
 
@@ -641,7 +643,7 @@ margin-top: -2%;
   margin-left: 28.8%;
 }
 .front_text-header-5{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight:bold;
   color: white;
   
@@ -773,7 +775,7 @@ margin-top: -1%;
   margin-left: 10.7%;
 }
 .front_text-header-6{
-  font-size: 2rem;
+  font-size: 1.5rem;
   font-weight:bold;
   color: white;
   
