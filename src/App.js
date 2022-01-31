@@ -3,6 +3,7 @@ import React,{useEffect} from 'react'
 import { Router, Outlet } from 'react-location';
 import { routes, location } from "./router"
 
+
 function App() {
   return (
     <Router routes={routes} location={location}>

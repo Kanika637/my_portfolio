@@ -1,0 +1,19 @@
+.line1{
+    display: flex;
+    flex-direction: row;
+}
+
+.pahla{
+    width: 60%;
+    border: 2px solid white;
+    
+}
+.dusra{
+    width: 70%;
+}
+.teesra{
+    width: 60%;
+}
+.chautha{
+    width: 70%;
+}

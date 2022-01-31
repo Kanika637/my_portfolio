@@ -7,6 +7,7 @@ import Education_Second from "./Education_Second"
 import Skills from "./Skills";
 import Project from "./Project";
 import Footer from "./Footer";
+import  Carousel  from './Carousel';
 
 export const routes: Route[] = [
     
@@ -38,6 +39,10 @@ export const routes: Route[] = [
 {
     path:"/foot",
     element:<Footer/>
+},
+{
+    path:"/car",
+    element:<Carousel/>
 }
 
 

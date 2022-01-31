@@ -5,7 +5,7 @@
     
 }
 .front_text{
-  border: 5px solid white;
+  border: 3px solid white;
 
 }
 .background{
@@ -70,7 +70,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -101,7 +101,7 @@
 .outer-div{
   margin-top: 2%;
   
-  margin-left: 6%;
+  margin-left: 13%;
 }
 .front_text-header{
   font-size: 2rem;
@@ -194,7 +194,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -225,7 +225,7 @@
   margin-top: -89%;
 }
 .outer-div-2{
-  margin-left: 32%;
+  margin-left: 35%;
 }
 .front_text-header-2{
   font-size: 1.9rem;
@@ -266,7 +266,7 @@
   /* correct this */
 
   margin-top: -150%;
-  border: 5px solid white;
+  border: 3px solid white;
  
 }
 
@@ -331,7 +331,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -362,7 +362,7 @@
   margin-top: -83%;
 }
 .outer-div-3{
-  margin-left: 59%;
+  margin-left: 57%;
 }
 .front_text-header-3{
   font-size: 2rem;
@@ -400,7 +400,7 @@
   /* correct this */
 
   margin-top: -150%;
-  border: 5px solid white;
+  border: 3px solid white;
 }
 
 
@@ -464,7 +464,7 @@
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -487,16 +487,16 @@
 
 }
 .ama_img-4{
-  margin-right: 1.7%;
-  width: 96.5%;
+  margin-right: 1%;
+  width: 98%;
   padding-top: 7.8px;
   height: 55%;
 
 /* correct this */
-margin-top: -1%;
+margin-top: -2%;
 }
 .outer-div-4{
-  margin-left: 46%;
+  margin-left: 47%;
 }
 .front_text-header-4{
   font-size: 2rem;
@@ -532,14 +532,15 @@ margin-top: -1%;
 .front_text-4{
 
   /* correct this */
-  border: 5px solid white;
+  border: 3px solid white;
   margin-top: 11%;
   
   
 }
 
 .second-row{
-  margin-right: -28%;
+  margin-right: -21.3%;
+  margin-top: -11.5%;
 }
 
 
@@ -605,7 +606,7 @@ margin-top: -1%;
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -628,15 +629,16 @@ margin-top: -1%;
 
 }
 .ama_img-5{
-  margin-right: -0.1%;
-  width: 100%;
+  margin-right: 1%;
+  width: 99%;
   height: 55%;
+  padding-top: 1%;
 
 /* correct this */
-  margin-top: -1%;
+  margin-top: -0.5%;
 }
 .outer-div-5{
-  margin-left: 25%;
+  margin-left: 28.8%;
 }
 .front_text-header-5{
   font-size: 2rem;
@@ -672,7 +674,7 @@ margin-top: -1%;
 .front_text-5{
 
   /* correct this */
-  border: 5px solid white;
+  border: 3px solid white;
   margin-top: -150%;
 }
 
@@ -681,7 +683,7 @@ margin-top: -1%;
 
 .outer-div-6,
 .inner-div-6 {
-  height: 450px;
+  height: 453px;
   max-width: 300px;
   margin: 0 auto;
   position: relative;
@@ -736,7 +738,7 @@ margin-top: -1%;
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -768,7 +770,7 @@ margin-top: -1%;
 margin-top: -1%;
 }
 .outer-div-6{
-  margin-left: 5%;
+  margin-left: 10.7%;
 }
 .front_text-header-6{
   font-size: 2rem;
@@ -804,7 +806,7 @@ margin-top: -1%;
 .front_text-6{
 
   /* correct this */
-  border: 5px solid white;
+  border: 3px solid white;
   margin-top: -150%;
 }
 
@@ -868,7 +870,7 @@ margin-top: -1%;
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -936,7 +938,7 @@ margin-top: -1%;
 .front_text-7{
 
   /* correct this */
-  border: 5px solid white;
+  border: 3px solid white;
   margin-top: 11%;
   
   
@@ -1002,7 +1004,7 @@ margin-top: -1%;
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -1069,7 +1071,7 @@ margin-top: -1%;
 .front_text-8{
 
   /* correct this */
-  border: 5px solid white;
+  border: 3px solid white;
   margin-top: -150%;
 }
 
@@ -1133,7 +1135,7 @@ margin-top: -1%;
   position: absolute;
   top: 0;
   left: 0;
-  height: 100%;
+  height: 73%;
   width: 100%;
   background-color: #071011;
   border-radius: 5px;
@@ -1201,7 +1203,7 @@ margin-top: -1%;
 .front_text-9{
 
   /* correct this */
-  border: 5px solid white;
+  border: 3px solid white;
   margin-top: -150%;
 }
 

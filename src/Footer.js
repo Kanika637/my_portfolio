@@ -1,4 +1,5 @@
 import React from "react";
+
 import {
     InfoWindow,
     withScriptjs,
@@ -7,6 +8,7 @@ import {
     Marker,
   } from "react-google-maps";
   import Geocode from 'react-geocode';
+  import { Descriptions} from 'antd';
 
   Geocode.setApiKey("AIzaSyD8-KIhlHLUr84Ckz7VxksqI0UGbPSd00Y")
 
@@ -122,6 +124,20 @@ class Footer extends React.Component{
 
         return(
             <div className="footer">
+
+<h1>Know My Loaction</h1>
+<Descriptions  bordered>
+    <Descriptions.Item label="City">{this.state.city}</Descriptions.Item>
+    <Descriptions.Item label="Area">{this.state.area}</Descriptions.Item>
+    <Descriptions.Item label="State">{this.state.state}</Descriptions.Item>
+    <Descriptions.Item label="Address">{this.state.address}</Descriptions.Item>
+    
+    
+  
+    
+  </Descriptions>
+
+
                 <MapWithAMarker
   googleMapURL="https://maps.googleapis.com/maps/api/js?key=AIzaSyD8-KIhlHLUr84Ckz7VxksqI0UGbPSd00Y&v=3.exp&libraries=geometry,drawing,places"
   loadingElement={<div style={{ height: `100%` }} />}

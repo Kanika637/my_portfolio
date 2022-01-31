@@ -23,7 +23,7 @@ const Project=()=>{
                             <h3 className="front_text-header">Amazon Clone</h3>
                             <h4 className="small">(Using React)</h4>
 
-                            <span className="front_text-hover">Hover For Details</span>
+                            {/* <span className="front_text-hover">Hover For Details</span> */}
                         </div>
                     </div>
                     <div className="back">
@@ -46,7 +46,7 @@ const Project=()=>{
                             <h3 className="front_text-header-2">Language Translator</h3>
                             <h4 className="small-2">(Using Tessareact.js and API's)</h4>
 
-                            <span className="front_text-hover-2">Hover For Details</span>
+                            {/* <span className="front_text-hover-2">Hover For Details</span> */}
                         </div>
                     </div>
                     <div className="back-2">
@@ -72,7 +72,7 @@ const Project=()=>{
                             <h3 className="front_text-header-3">Career Selector</h3>
                             <h4 className="small-3">(Using React)</h4>
 
-                            <span className="front_text-hover-3">Hover For Details</span>
+                            {/* <span className="front_text-hover-3">Hover For Details</span> */}
                         </div>
                     </div>
                     <div className="back-3">
@@ -102,7 +102,7 @@ const Project=()=>{
                             <h3 className="front_text-header-4">Portfolio</h3>
                             <h4 className="small-4">(Using React)</h4>
 
-                            <span className="front_text-hover-4">Hover For Details</span>
+                            {/* <span className="front_text-hover-4">Hover For Details</span> */}
                         </div>
                     </div>
                     <div className="back-4">
@@ -121,18 +121,18 @@ const Project=()=>{
             <div className="outer-div-5">
                 <div className="inner-div-5">
                     <div className="front-5">
-                        <img className="ama_img-5" src={code_logo}></img>
+                        <img className="ama_img-5" src={hun}></img>
                         <div className="front_text-5">
-                            <h3 className="front_text-header-5">Online Code Editor</h3>
-                            <h4 className="small-5">(Using React)</h4>
+                            <h3 className="front_text-header-5">Community Hunter</h3>
+                            <h4 className="small-5">(Using React,MongoDb, NodeJs)</h4>
 
-                            <span className="front_text-hover-5">Hover For Details</span>
+                            {/* <span className="front_text-hover-5">Hover For Details</span> */}
                         </div>
                     </div>
                     <div className="back-5">
                         <div className="wrapper-5">
                         <div className="link-5">
-                            <a target="blank" href="https://github.com/Kanika637/Online-code-Editor" className="linker-5"> Project Link</a>
+                            <a target="blank" href="https://community-hunter.netlify.app/" className="linker-5"> Project Link</a>
                             </div>
                         </div>
                     </div>
@@ -151,7 +151,7 @@ const Project=()=>{
                             <h3 className="front_text-header-6">Internship Project</h3>
                             <h4 className="small-6">(Using React,Node Js, Express, Mongodb)</h4>
 
-                            <span className="front_text-hover-6">Hover For Details</span>
+                            {/* <span className="front_text-hover-6">Hover For Details</span> */}
                         </div>
                     </div>
                     <div className="back-6">
@@ -164,12 +164,12 @@ const Project=()=>{
                 </div>
             </div>
 
-            <div className="third-row">
+            {/* <div className="third-row"> */}
                 {/* seventh */}
                 
 
 
-                <div className="outer-div-7">
+                {/* <div className="outer-div-7">
                 <div className="inner-div-7">
                     <div className="front-7">
                         <img className="ama_img-7" src={port}></img>
@@ -177,7 +177,6 @@ const Project=()=>{
                             <h3 className="front_text-header-7">Portfolio</h3>
                             <h4 className="small-7">(Using React)</h4>
 
-                            <span className="front_text-hover-7">Hover For Details</span>
                         </div>
                     </div>
                     <div className="back-7">
@@ -188,13 +187,13 @@ const Project=()=>{
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
             {/* eigth */}
 
 
-            <div className="outer-div-8">
+            {/* <div className="outer-div-8">
                 <div className="inner-div-8">
                     <div className="front-8">
                         <img className="ama_img-8" src={port}></img>
@@ -202,7 +201,6 @@ const Project=()=>{
                             <h3 className="front_text-header-8">Portfolio</h3>
                             <h4 className="small-8">(Using React)</h4>
 
-                            <span className="front_text-hover-8">Hover For Details</span>
                         </div>
                     </div>
                     <div className="back-8">
@@ -213,14 +211,14 @@ const Project=()=>{
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
 
 {/* ninth */}
 
 
-<div className="outer-div-9">
+{/* <div className="outer-div-9">
                 <div className="inner-div-9">
                     <div className="front-9">
                         <img className="ama_img-9" src={hun} alt="/"></img>
@@ -228,7 +226,6 @@ const Project=()=>{
                             <h3 className="front_text-header-9">API Fest-22</h3>
                             <h4 className="small-9">(Using React, Node Js, Express)</h4>
 
-                            <span className="front_text-hover-9">Hover For Details</span>
                         </div>
                     </div>
                     <div className="back-9">
@@ -239,11 +236,11 @@ const Project=()=>{
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> */}
 
 
 
-            </div>
+            {/* </div> */}
 
 
 
