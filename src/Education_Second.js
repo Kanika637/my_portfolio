@@ -4,6 +4,9 @@ import "./styles/education_Second.css"
 const Education_Second=()=>{
     return(
         <div  id="education" className="edu_second">
+           <div className="me_ed">
+                <h3>Education</h3>
+            </div>
         <div className="row1-container">
     <div className="box box-down cyan">
       <h2>Course</h2>

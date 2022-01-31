@@ -13,6 +13,9 @@ import settyl from "./images/settyl.png"
 const Project=()=>{
     return(
         <div  id="project" className="project">
+            <div className="me_pro">
+                <h3>Projects</h3>
+            </div>
             <div className="background"></div>
             <div className="first_row">
             <div className="outer-div">

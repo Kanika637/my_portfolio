@@ -136,3 +136,14 @@ h2 {
     } */
     
 }
+.edu_second{
+    margin-top: 11%;
+}
+.me_ed{
+    color: white;
+    float: left;
+    font-size: 3.5rem;
+    margin-left: 10%;
+  margin-top: -11%;
+  font-family: 'Catamaran', sans-serif;
+}

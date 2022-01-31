@@ -10,6 +10,7 @@ import Education_Second from "./Education_Second"
 import Skills from "./Skills"
 import Project from "./Project"
 import Scroll from "./Scroll"
+import Footer_new from "./Footer_new"
 
 const Homepage=()=>{
     return(
@@ -30,7 +31,7 @@ const Homepage=()=>{
         <br></br>
         <span className="designation">Beginner Level </span>
         <br></br>
-        <span className="remaining">Frontend Developer</span>
+        <span className="remaining">Full-Stack Web Developer</span>
     </div>
     
     
@@ -67,6 +68,7 @@ const Homepage=()=>{
     <Education_Second/>
     <Skills/>
     <Project/>
+    <Footer_new/>
     
     
   </div>

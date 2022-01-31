@@ -43,12 +43,12 @@
     position: relative;
     display: block;
     color: white;
-    font-size: 1rem;
+    font-size: 1.2rem;
     font-family: "montserrat";
     text-decoration: none;
     font-weight: 500;
     margin: 30px 0;
-    margin-top: 205%;
+    margin-top: 209%;
     border: 3px solid #ff7675;
     padding: 14px 60px;
     text-transform: uppercase;
@@ -74,5 +74,14 @@
   
   .btn1:hover::before{
     width: 100%;
+  }
+  .me{
+    color: white;
+    float: left;
+    font-size: 3.5rem;
+    margin-left: 10%;
+  margin-top: -11%;
+  font-family: 'Catamaran', sans-serif;
+
   }
   

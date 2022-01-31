@@ -1,5 +1,5 @@
 .skill{
-	margin-top: 8%;
+	margin-top: 19%;
 }
 
 .list{
@@ -248,4 +248,12 @@
 .sjbf{
 	display: flex;
 	flex-direction: row;
+}
+.me_sk{
+	color: white;
+    float: left;
+    font-size: 3.5rem;
+    margin-left: 12%;
+  margin-top: -9%;
+  font-family: 'Catamaran', sans-serif;
 }

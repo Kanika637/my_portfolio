@@ -19,6 +19,9 @@ const Skills=()=>{
 	 
 	  return(
 		<div className="skill">
+			<div className="me_sk">
+                <h3>Skills</h3>
+            </div>
 			<div className="sjbf">
 			<div  data-aos="fade-right" className="list">
 				<div className="first_half">

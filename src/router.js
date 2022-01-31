@@ -9,12 +9,17 @@ import Project from "./Project";
 import Footer from "./Footer";
 import  Carousel  from './Carousel';
 import Scroll from "./Scroll";
+import Footer_new from "./Footer_new";
 
 export const routes: Route[] = [
     
 {
         path:"/",
         element:<Homepage/>
+},
+{
+    path:"/footer",
+    element:<Footer_new/>
 },
 {
     path:"/boxes",

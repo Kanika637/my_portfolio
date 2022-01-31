@@ -1,11 +1,19 @@
 .project{
     color: white;
     margin-left: 10%;
-    margin-top: 15%;
+    margin-top: 27%;
     
 }
+.me_pro{
+  color: white;
+    float: left;
+    font-size: 3.5rem;
+    margin-left: 2%;
+  margin-top: -17%;
+  font-family: 'Catamaran', sans-serif;
+}
 .front_text{
-  border: 3px solid white;
+  border: 2.3px solid white;
 
 }
 .background{
@@ -101,7 +109,7 @@
 .outer-div{
   margin-top: 2%;
   
-  margin-left: 13%;
+  margin-left: 12%;
 }
 .front_text-header{
   font-size: 1.5rem;
@@ -266,7 +274,7 @@
   /* correct this */
 
   margin-top: -150%;
-  border: 3px solid white;
+  border: 2.3px solid white;
  
 }
 
@@ -362,7 +370,7 @@
   margin-top: -83%;
 }
 .outer-div-3{
-  margin-left: 57%;
+  margin-left: 58%;
 }
 .front_text-header-3{
   font-size: 1.5rem;
@@ -400,7 +408,7 @@
   /* correct this */
 
   margin-top: -150%;
-  border: 3px solid white;
+  border: 2.3px solid white;
 }
 
 
@@ -496,7 +504,7 @@
 margin-top: -2%;
 }
 .outer-div-4{
-  margin-left: 47%;
+  margin-left: 47.8%;
 }
 .front_text-header-4{
   font-size: 1.5rem;
@@ -532,7 +540,7 @@ margin-top: -2%;
 .front_text-4{
 
   /* correct this */
-  border: 3px solid white;
+  border: 2.5px solid white;
   margin-top: 11%;
   
   
@@ -676,7 +684,7 @@ margin-top: -2%;
 .front_text-5{
 
   /* correct this */
-  border: 3px solid white;
+  border: 2.3px solid white;
   margin-top: -150%;
 }
 
@@ -772,7 +780,7 @@ margin-top: -2%;
 margin-top: -1%;
 }
 .outer-div-6{
-  margin-left: 10.7%;
+  margin-left: 9.9%;
 }
 .front_text-header-6{
   font-size: 1.5rem;
@@ -808,7 +816,7 @@ margin-top: -1%;
 .front_text-6{
 
   /* correct this */
-  border: 3px solid white;
+  border: 2.3px solid white;
   margin-top: -150%;
 }
 

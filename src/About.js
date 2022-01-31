@@ -4,6 +4,10 @@ import about from "./images/about.jpg"
 const About=()=>{
     return(
         <div  id="about" className="about">
+
+            <div className="me">
+                <h3>About Me !</h3>
+            </div>
             
             <div className="about_content">
                
