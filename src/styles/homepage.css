@@ -14,8 +14,8 @@ body{
 .hello{
     position: absolute;
     margin-top: -32%;
-    margin-left: 6%;
-    font-size: 1.3rem;
+    margin-left: 5%;
+    font-size: 1.4rem;
     color: white;
 }
 .name{
@@ -48,9 +48,10 @@ body{
 .remaining{
     position: absolute;
     margin-top: -22%;
-    margin-left: 6%;
+    margin-left: 5%;
     color: white;
-    font-size: 1.1rem;
+    font-size: 1.3rem;
+    font-weight: 500;
 }
 .profile_img{
     width:20%;

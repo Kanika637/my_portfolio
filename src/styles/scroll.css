@@ -7,12 +7,12 @@
 }
 .scrl1{
     transform: rotate(90deg);
-    margin-left: -8%;
+    margin-left: -14%;
     color: white;
 }
 .scrl2{
     transform: rotate(90deg);
-    margin-left: 91.2%;
+    margin-left: 96.2%;
     color: white;
     margin-top: -1%;
 }
@@ -21,12 +21,12 @@
     color: white;
 }
 .icon1{
-    margin-left: 7.5%;
+    margin-left: 2.5%;
     padding-top: 2.5%;
     color: white;
 }
 .icon2{
-    margin-left: 83.5%;
+    margin-left: 92.6%;
     padding-top: 2.4%;
     color: white;
     

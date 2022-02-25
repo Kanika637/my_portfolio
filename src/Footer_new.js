@@ -15,9 +15,9 @@ const Footer_new=()=>{
 
                 <div className="foot_icons">
                    <a href="https://www.linkedin.com/in/kanika-gola-999968204/" target="_blank"> <div className="f_link"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></div></a>
-                   <a href="https://github.com/Kanika637">  <div className="f_git" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></div></a>
-                   <a href="https://twitter.com/gola_kanika">  <div className="f_twit" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></div></a>
-                   <a href="https://www.instagram.com/kanika.gola26/">  <div className="f_insta" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></div></a>
+                   <a href="https://github.com/Kanika637" target="_blank">  <div className="f_git" target="_blank"><img src="https://img.icons8.com/color/48/000000/github--v1.png"/></div></a>
+                   <a href="https://twitter.com/gola_kanika" target="_blank">  <div className="f_twit" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v2.png"/></div></a>
+                   <a href="https://www.instagram.com/kanika.gola26/" target="_blank">  <div className="f_insta" target="_blank"><img src="https://img.icons8.com/color/48/000000/instagram-new--v2.png"/></div></a>
                   
                 </div>
                 <p className="bottom">Made with 💖 By Kanika Gola</p>

@@ -25,10 +25,15 @@
     font-size: 1.1rem;
     margin-top: 23%;
     margin-left: -55%;
+    margin-bottom: 3%;
 }
 .line{
-    color: white;
+  
+    border: solid white 0.1px;
     width: 80%;
+    border-left: white;
+    border-bottom: white;
+    border-right: white;
     margin-left: 10%;
 }
 .emoji{

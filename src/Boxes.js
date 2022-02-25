@@ -24,12 +24,14 @@ const Boxes=()=>{
             </div>
             <div className="box2">
                 <div className="box2_icon">
+                    
                     <FaSchool className="box2_icon"></FaSchool>
 
                 </div>
-                <div className="box2_heading">
+                <div  className="box2_heading">
                     EDUCATION
                 </div>
+                
             </div>
             </div>
             <div className="second_line">
@@ -43,14 +45,15 @@ const Boxes=()=>{
                     PROJECTS
                 </div>
             </div>
-            <div className="box4">
+            <div   className="box4">
                 <div className="box4_icon">
                     <FaSeedling  className="box4_icon"></FaSeedling>
 
                 </div>
+                <a href="#about">
                 <div className="box4_heading">
                     ABOUT
-                </div>
+                </div></a>
             </div>
             </div>
             </div>

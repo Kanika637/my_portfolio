@@ -3,14 +3,14 @@ import "./styles/homepage.css"
 import red from "./images/red background.jpg"
 import profile_2 from "./images/profile_2.jpg"
 import Boxes from "./Boxes"
-import { FaGithub,FaInstagram,FaLinkedinIn} from "react-icons/fa";
-import { FaTwitter } from "react-icons/fa";
 import About from "./About"
 import Education_Second from "./Education_Second"
 import Skills from "./Skills"
 import Project from "./Project"
 import Scroll from "./Scroll"
 import Footer_new from "./Footer_new"
+import { FaInstagram,FaGithub, FaTwitter, FaLinkedinIn} from "react-icons/fa";
+
 
 const Homepage=()=>{
     return(
@@ -29,8 +29,8 @@ const Homepage=()=>{
         <br></br>
         <span className="surname">GOLA</span>
         <br></br>
-        <span className="designation">Beginner Level </span>
-        <br></br>
+        {/* <span className="designation">Beginner Level </span>
+        <br></br> */}
         <span className="remaining">Full-Stack Web Developer</span>
     </div>
     
@@ -40,8 +40,6 @@ const Homepage=()=>{
     
 
     <Boxes/>
-
-        
     <div className="socials">
       
         <div className="insta">
@@ -63,6 +61,9 @@ const Homepage=()=>{
             
     </div>
 
+        
+   
+            
 <Scroll/>
     <About/>
     <Education_Second/>

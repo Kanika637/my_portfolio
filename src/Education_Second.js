@@ -3,7 +3,8 @@ import "./styles/education_Second.css"
 
 const Education_Second=()=>{
     return(
-        <div  id="education" className="edu_second">
+<div id="education">
+        <div className="edu_second">
            <div className="me_ed">
                 <h3>Education</h3>
             </div>
@@ -33,6 +34,7 @@ const Education_Second=()=>{
       <p>ABES Institute Of Technology</p>
       <img src="https://assets.codepen.io/2301174/icon-karma.svg" alt=""/>
     </div>
+  </div>
   </div>
   </div>
   

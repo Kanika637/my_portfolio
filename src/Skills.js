@@ -52,6 +52,7 @@ const Skills=()=>{
 				</div>
 				</div>
 				
+				
 
 				<div className="react">
 					<img className="img_react" src={react}></img>
@@ -74,9 +75,10 @@ const Skills=()=>{
 					</span>
 					
 				</div>
+				</div>
 				
 				
-			</div>
+		
 			
 			
 			</div>
